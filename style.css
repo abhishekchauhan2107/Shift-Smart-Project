@@ -8,6 +8,14 @@
 .feature_start{
     margin: 10%;
 }
+.crousel_image{
+    height: 90vh;
+}
+@media (max-width:300px){
+    .crousel_image{
+    height: 50vh;
+}
+}
 .book_form{
     
     margin: 5%;
