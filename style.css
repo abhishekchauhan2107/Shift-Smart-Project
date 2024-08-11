@@ -1,0 +1,38 @@
+.crousal_top{
+    display: flex;
+    height: 60%;
+    width: 50%;
+    justify-content: center;
+    margin-top: 20px;
+}
+.feature_start{
+    margin: 10%;
+}
+.book_form{
+    
+    margin: 5%;
+}
+.book_form td{
+    
+    padding: 5%;
+}
+.book_form .btn{
+    
+    margin-top: 5%;
+}
+.contactform{
+    font-family: 'Open Sans', sans-serif;
+    padding: 50px 34px;
+     
+}
+.contactform div{
+    padding: 12px 0;
+    display: flex;
+    flex-direction: column;
+}
+.contactform form div input {
+   width: 16vw;
+   border-radius:  5px;
+   margin: 6px 0;
+   padding: 3px;
+}
